@@ -8,3 +8,5 @@
 * feature 2
 * feature 3
 * feature 4
+
+Создано в рамках курса OTUS JavaScript QA Engineer
